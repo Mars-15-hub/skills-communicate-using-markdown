@@ -13,3 +13,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` python
 message = 'Hello, Friend!'
 ```
+This is to create a tracklist
+- [x] Go to the mall
+- [ ] Make dinner
+- [ ] Clean the house
